@@ -22,7 +22,7 @@ scanf("%d",c);
   {
   printf("\n El triangulo es escaleno");
    }
-
+setbuf ( stdin, NULL );
 getchar();
 
 }
